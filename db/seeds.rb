@@ -14,3 +14,5 @@
 # ])
 
 Vehicle.create(name: "Nebuchadnezzar", style: "Spaceship")
+
+## I did the add and destroy part
